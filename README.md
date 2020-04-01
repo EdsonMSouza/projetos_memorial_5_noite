@@ -8,7 +8,7 @@ Nesse semestre teremos um novo desafio na construção do nosso Projeto de Gover
 
 **Objetivo:**
 
-Desenvolver um estudo utilizando Ciência de Dados aplicado em um Estudo de Caso. Para isso, vamos utilizar os conhecimentos adquiridos na disciplina de Ciência de Dados, além de conceitos estudados em outras disciplinas deste e de semestres anteriores.
+Desenvolver um estudo utilizando **Ciência de Dados** aplicado em um Estudo de Caso. Para isso, vamos utilizar os conhecimentos adquiridos na disciplina de Ciência de Dados, além de conceitos estudados em outras disciplinas deste e de semestres anteriores.
 
 **Orientações:**
 

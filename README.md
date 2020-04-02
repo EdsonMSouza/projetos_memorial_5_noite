@@ -30,12 +30,12 @@ Farei as correções de forma online durante as aulas de projeto (Pré-aula), ac
 	+ Introdução e Objetivos
 
 ## Dicas para Projetos de Data Science
-+ (Como criar seu primeiro projeto de Data Science )[https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-1-de-2-d846c4c8d314]
-+ (Passo a Passo para um Projeto de Data Science)[https://minerandodados.com.br/guia-passo-a-passo-de-como-um-projeto-de-data-science-e-desenvolvido/]
++ [Como criar seu primeiro projeto de Data Science/(https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-1-de-2-d846c4c8d314)
++ [Passo a Passo para um Projeto de Data Science](https://minerandodados.com.br/guia-passo-a-passo-de-como-um-projeto-de-data-science-e-desenvolvido/)
 
 ## Fontes de Dados
-+ (Datasets Kaggle)[https://www.kaggle.com/datasets]
-+ (Sites para encontrar *datasets*)[https://paulovasconcellos.com.br/os-7-melhores-sites-para-encontrar-datasets-para-projetos-de-data-science-8a53c3b48329]
++ [Datasets Kaggle](https://www.kaggle.com/datasets)
++ [Sites para encontrar *datasets*](https://paulovasconcellos.com.br/os-7-melhores-sites-para-encontrar-datasets-para-projetos-de-data-science-8a53c3b48329)
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))

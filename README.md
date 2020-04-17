@@ -28,6 +28,8 @@ Farei as correções de forma online durante as aulas de projeto (Pré-aula), ac
 	+ Nome e RA dos membros do grupo.
 	+ Proposta do projeto (Descrever o que se pretende desenvolver).
 	+ Introdução e Objetivos
+* **23/04**
+	+ Fundamentação Teórica (Usar como base o artigo Kickstarter acima)
 
 ## Dicas para Projetos de Data Science
 + [Como criar seu primeiro projeto de Data Science](https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-1-de-2-d846c4c8d314)

@@ -38,6 +38,11 @@ Farei as correções de forma online durante as aulas de projeto (Pré-aula), ac
 	+ Entrega do protótipo do projeto
 	+ Estudos iniciais sobre os *datasets*
 
+* **18/06**
+	+ Entrega final do Projeto
+		+ Documentação
+		+ Códigos Fonte
+
 ## Dicas para Projetos de Data Science
 + [Como criar seu primeiro projeto de Data Science](https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-1-de-2-d846c4c8d314)
 + [Passo a Passo para um Projeto de Data Science](https://minerandodados.com.br/guia-passo-a-passo-de-como-um-projeto-de-data-science-e-desenvolvido/)
